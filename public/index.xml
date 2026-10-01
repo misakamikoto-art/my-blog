@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>misaka10030</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on misaka10030</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 01 Oct 2026 22:09:44 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一篇文章</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 01 Oct 2026 22:09:44 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;欢迎使用markdown编辑器&#34;&gt;欢迎使用Markdown编辑器&lt;/h1&gt;
+&lt;p&gt;这是一个功能强大的Markdown编辑器，支持实时预览和LaTeX数学公式。&lt;/p&gt;
+&lt;h2 id=&#34;功能特性&#34;&gt;功能特性&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;实时预览&lt;/strong&gt;：左侧编辑，右侧实时显示效果&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数学公式&lt;/strong&gt;：支持LaTeX数学公式渲染&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语法高亮&lt;/strong&gt;：支持代码块语法高亮&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;工具栏&lt;/strong&gt;：快捷插入常用Markdown语法&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;导入导出&lt;/strong&gt;：支持导入MD/HTML文件，导出为MD、PDF、HTML格式&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;主题切换&lt;/strong&gt;：支持明暗主题切换&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;多语言&lt;/strong&gt;：支持中英文界面切换&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;数学公式示例&#34;&gt;数学公式示例&lt;/h2&gt;
+&lt;p&gt;行内公式：爱因斯坦质能方程 $E = mc^2$ 很有名。&lt;/p&gt;
+&lt;p&gt;块级公式：&lt;/p&gt;
+&lt;p&gt;$$
+\sum_{i=0}^n i^2 = \frac{n(n+1)(2n+1)}{6}
+$$&lt;/p&gt;
+&lt;p&gt;更多示例：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;二次公式：$x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}$&lt;/li&gt;
+&lt;li&gt;积分：$\int_0^1 x^2 dx = \frac{1}{3}$&lt;/li&gt;
+&lt;li&gt;矩阵：$\begin{pmatrix} a &amp;amp; b \ c &amp;amp; d \end{pmatrix}$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;快捷键&#34;&gt;快捷键&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Ctrl + B&lt;/code&gt;：加粗&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Ctrl + I&lt;/code&gt;：斜体&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Tab&lt;/code&gt;：缩进&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Enter&lt;/code&gt;：自动继续列表&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;示例代码&#34;&gt;示例代码&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hello&lt;/span&gt;() {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;console&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;log&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, Markdown Editor!&amp;#34;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;帮助与支持&#34;&gt;帮助与支持&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/zh/syntax&#34;&gt;语法示例&lt;/a&gt;&lt;/strong&gt;：查看更多Markdown语法示例&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;联系我们&lt;/strong&gt;：如有问题或建议，请发送邮件至 &lt;a href=&#34;mailto:wenmengshaonian@gmail.com&#34;&gt;wenmengshaonian@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;开始编辑您的Markdown文档吧！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
