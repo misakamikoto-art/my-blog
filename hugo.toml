@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
-languageCode = "zh-cn"
+baseURL = "https://my-blog-c5a.pages.dev/"
+locale = "zh-cn"
 title = "misaka10030"
 theme = "PaperMod"
