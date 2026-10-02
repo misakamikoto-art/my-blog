@@ -1,0 +1,10 @@
+:root {
+  --primary: #1a1a1a;      /* 正文文字颜色 */
+  --secondary: #956235;    /* 焦点和高亮色 */
+  --main-width: 900px;     /* 正文最大宽度，默认约720px */
+  --gap: 28px;             /* 全局间距，让页面更透气 */
+  --radius: 10px;          /* 圆角更大，更现代 */
+}
+body{
+	font-family:"Noto Sans SC","仿宋",sans-serif
+	}
